@@ -6,7 +6,6 @@
     "test": "jest",
     "full-test": "eslint [0-9]*.js && jest"
   },
-  "type": "module",
   "devDependencies": {
     "@babel/cli": "^7.22.9",
     "@babel/core": "^7.22.9",
