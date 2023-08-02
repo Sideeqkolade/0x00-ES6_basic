@@ -1,3 +1,8 @@
+/*
+ * retrieves a list of students
+ * returns [id, firstName, location]
+*/
+
 export default function getListStudents() {
   return [
     { id: 1, firstName: 'Guillaume', location: 'San Fransisco' },
