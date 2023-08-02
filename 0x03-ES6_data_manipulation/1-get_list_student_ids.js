@@ -1,4 +1,4 @@
-/*
+/**
  * retrieves the ids of students in the list
  */
 
