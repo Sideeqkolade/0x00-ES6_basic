@@ -1,12 +1,3 @@
-/**
- * Defines a function that adds two numbers
- * @param num a for the addition
- * @param num b to be added to a
- */
-
-const calculateNumber = (a, b) => {
-  const sum = Math.round(a) + Math.round(b);
-  return sum;
-};
+const calculateNumber = (a, b) => Math.round(a) + Math.round(b);
 
 module.exports = calculateNumber;
